@@ -1,16 +1,10 @@
 ---
+title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document: 
-    keep_md: yes
+    keep_md: true
 ---
 ---
-title: "Reproducible Research: Peer Assessment 1"
-
-output: "md_document"
-
-author: "Ashwin S Sudarshan"
-
-keep_md: true
 
 
 ## Loading and preprocessing the data
